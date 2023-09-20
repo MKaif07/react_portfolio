@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tech-stack-logo {
+  transition: object-fit 5s ease-in-out;
+  object-fit: contain;
+  /* border: solid 1px grey; */
+}
+.tech-stack-logo:hover {
+  object-fit: contain;
+  /* background-color: rosybrown; */
+}
