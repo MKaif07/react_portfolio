@@ -15,7 +15,7 @@ function About() {
                 className="flex-shrink-0 rounded-lg w-full h-40 object-cover object-center mb-4 tech-stack-logo tech-stack-logo"
                 src="/c++.png"
               />
-              c++
+              C++
             </div>
           </div>
           <div className="p-4 lg:w-1/6 md:w-1/2">
@@ -25,7 +25,7 @@ function About() {
                 className="flex-shrink-0 rounded-lg w-full h-40 object-cover object-center mb-4  tech-stack-logo"
                 src="/python.png"
               />
-              python
+              Python
             </div>
           </div>
           <div className="p-4 lg:w-1/6 md:w-1/2">
@@ -45,7 +45,7 @@ function About() {
                 className="flex-shrink-0 rounded-lg w-full h-40 object-cover object-center mb-4 tech-stack-logo"
                 src="/html.png"
               />
-              html
+              HTML
             </div>
           </div>
           <div className="p-4 lg:w-1/6 md:w-1/2">
@@ -55,7 +55,7 @@ function About() {
                 className="flex-shrink-0 rounded-lg w-full h-40 object-cover object-center mb-4 tech-stack-logo"
                 src="/css.png"
               />
-              css
+              CSS
             </div>
           </div>
           <div className="p-4 lg:w-1/6 md:w-1/2">
@@ -115,7 +115,7 @@ function About() {
                 className="flex-shrink-0 rounded-lg w-full h-40 object-cover object-center mb-4 tech-stack-logo"
                 src="/mongo.png"
               />
-              Mongo
+              Mongo DB
             </div>
           </div>
           <div className="p-4 lg:w-1/6 md:w-1/2">
